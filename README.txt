@@ -1,4 +1,4 @@
-Check-in 1: February 22, 2016
+Check-in 1: February 15, 2016
 Bette:   making the ball fall
 Krithika: Get a ball on the screen and make the ball move right and left based on the mousepad
 
